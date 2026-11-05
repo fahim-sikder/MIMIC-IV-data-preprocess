@@ -105,3 +105,7 @@ The tests use a small made-up MIMIC-shaped folder, in both the 2.x/3.x and the 1
 - alignment of labels, protected codes and one-hot features with the cohort table;
 - the no-overwrite and failed-run cleanup behaviour;
 - the `--out` and split-size checks.
+
+## License
+
+The code is released under the MIT License (see `LICENSE`). The license covers this code only, not MIMIC-IV, which remains under the PhysioNet Credentialed Health Data License and data use agreement.

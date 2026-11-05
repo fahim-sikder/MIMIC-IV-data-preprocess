@@ -3,6 +3,8 @@ name = "mimic-mortality"
 version = "0.1.0"
 description = "MIMIC-IV in-hospital mortality cohorts, one row per patient"
 requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Md Fahim Sikder"}]
 dependencies = ["numpy>=1.24", "pandas>=2.0", "pyarrow>=12", "scikit-learn>=1.2"]
 
 [project.optional-dependencies]
